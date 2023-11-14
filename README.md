@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Hi👋! i'm Samy BEN TAYEB and i'm student from 42PARIS !</h1>
+<h1 align="center">Salut à toi 👋! Je m'appelle Samy BEN TAYEB et je suis étudiant à 42PARIS !</h1>
 
 ###
 
@@ -11,6 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurama77190&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=kurama77190&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=fr&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<p align="left">Hello World!!</p>
 
 ###
 
@@ -28,14 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="30" alt="premierepro logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="225" src="https://media3.giphy.com/media/PRlZvs1KXhtkc/giphy.gif?cid=ecf05e47rfd5usxlhlxqvah3if2lu5da3wc36cl2fz3gcdqr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
