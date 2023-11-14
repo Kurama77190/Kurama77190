@@ -1,19 +1,30 @@
-<h2 align="left">Salut à toi 👋! Je m'appelle Samy BEN TAYEB et je suis étudiant à 42PARIS !</h2>
+<br clear="both">
+
+<h2 align="center">Salut à toi 👋! Je m'appelle Samy BEN TAYEB et je suis étudiant à 42PARIS !</h2>
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kurama77190&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurama77190&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="330" src="https://media1.giphy.com/media/GyKZSutfyIXsI/giphy.gif?cid=ecf05e47rfd5usxlhlxqvah3if2lu5da3wc36cl2fz3gcdqr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
 
-<img align="right" height="238" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kurama77190&locale=fr&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=1" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurama77190&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kurama77190&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=fr&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
@@ -31,7 +42,9 @@
 
 ###
 
-<div align="left">
+<br clear="both">
+
+<div align="center">
   <a href="samy77190" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -44,6 +57,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kurama77190/kurama77190/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="225" src="https://media3.giphy.com/media/PRlZvs1KXhtkc/giphy.gif?cid=ecf05e47rfd5usxlhlxqvah3if2lu5da3wc36cl2fz3gcdqr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
 
 ###
