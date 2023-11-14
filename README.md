@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h1 align="center">Salut à toi 👋! Je m'appelle Samy BEN TAYEB et je suis étudiant à 42PARIS !</h1>
+<h1 align="center">Hi👋! i'm Samy BEN TAYEB and i'm student from 42PARIS !</h1>
 
 ###
 
