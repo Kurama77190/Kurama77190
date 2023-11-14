@@ -2,6 +2,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kurama77190&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurama77190&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <img align="right" height="238" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"  />
 
 ###
@@ -32,5 +39,11 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kurama77190/kurama77190/output/snake.svg" alt="Snake animation" />
 
 ###
