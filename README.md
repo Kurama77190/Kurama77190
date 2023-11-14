@@ -1,14 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Salut à toi 👋! Je m'appelle Samy BEN TAYEB et je suis étudiant à 42PARIS !</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="330" src="https://media1.giphy.com/media/GyKZSutfyIXsI/giphy.gif?cid=ecf05e47rfd5usxlhlxqvah3if2lu5da3wc36cl2fz3gcdqr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
+<h1 align="center">Salut à toi 👋! Je m'appelle Samy BEN TAYEB et je suis étudiant à 42PARIS !</h1>
 
 ###
 
@@ -21,8 +13,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
@@ -45,12 +35,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="samy77190" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="samybentayeb@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
+  <img height="225" src="https://media3.giphy.com/media/PRlZvs1KXhtkc/giphy.gif?cid=ecf05e47rfd5usxlhlxqvah3if2lu5da3wc36cl2fz3gcdqr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
@@ -58,7 +43,16 @@
 <br clear="both">
 
 <div align="center">
-  <img height="225" src="https://media3.giphy.com/media/PRlZvs1KXhtkc/giphy.gif?cid=ecf05e47rfd5usxlhlxqvah3if2lu5da3wc36cl2fz3gcdqr&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+  <a href="samy77190" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/kurama77190/count.svg?"  />
 </div>
 
 ###
