@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/desktop-animation2.gif"  />
+  <img height="450" src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/desktop-animation2.gif"  />
 </div>
 
 ###
