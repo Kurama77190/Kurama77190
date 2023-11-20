@@ -15,7 +15,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kurama77190&locale=fr&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=1" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=kurama77190&locale=fr&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=2" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kurama77190&locale=fr&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=kurama77190&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=fr&hide_border=false" height="150" alt="stats graph"  />
 </div>
@@ -23,7 +23,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://badge.mediaplus.ma/greenbinary/sben-tay?1337Badge=off&UM6P=off"  />
+  <img height="225" src="https://badge.mediaplus.ma/greenbinary/sben-tay?1337Badge=off&UM6P=off"  />
 </div>
 
 ###
