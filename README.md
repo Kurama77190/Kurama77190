@@ -22,6 +22,20 @@
 
 ###
 
+<h1 align="center">FINISHED PROJECTS</h1>
+
+###
+
+<img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/libftm.png"  />
+
+###
+
+<img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/born2berootm.png"  />
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img height="225" src="https://badge.mediaplus.ma/greenbinary/sben-tay?1337Badge=off&UM6P=off"  />
 </div>
