@@ -26,11 +26,15 @@
 
 ###
 
-<img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/libftm.png"  />
+<img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/ft_printfm.png"  />
 
 ###
 
 <img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/born2berootm.png"  />
+
+###
+
+<img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/libftm.png"  />
 
 ###
 
