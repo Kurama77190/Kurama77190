@@ -30,6 +30,10 @@
 
 ###
 
+<img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/get_next_linem.png"  />
+
+###
+
 <img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/born2berootm.png"  />
 
 ###
