@@ -1,13 +1,13 @@
 <br clear="both">
 
-<h1 align="center">Salut à toi 👋! Je m'appelle Samy BEN TAYEB et je suis étudiant à 42PARIS !</h1>
+<h1 align="center">Ton rêve est le futur de demain... don't forget!</h1>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/desktop-animation2.gif"  />
+  <img height="450" src="https://i.pinimg.com/originals/c1/fc/9d/c1fc9d7f6ae08d56f2b84e81799790a5.gif"  />
 </div>
 
 ###
