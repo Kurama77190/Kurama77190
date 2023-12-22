@@ -25,20 +25,28 @@
 <h1 align="center">FINISHED PROJECTS</h1>
 
 ###
-
-<img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/ft_printfm.png" title="printf: 100/100"  />
+</a>
+<a  href="https://github.com/Kurama77190/PRINTF" >
+<img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/ft_printfm.png" title="printf: 100/100" />
+</a>
 
 ###
-
+</a>
+<a  href="https://github.com/Kurama77190/GET_NEXT_LINE" >
 <img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/get_next_linem.png" title="get_next_line: 125/100" />
+</a>
 
 ###
-
+</a>
+<a  href="https://github.com/Kurama77190" >
 <img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/born2berootm.png" title="Born2Beroot: 125/100" />
+</a>
 
 ###
-
+</a>
+<a  href="https://github.com/Kurama77190/LIBFT" >
 <img align="left" height="150" src="https://raw.githubusercontent.com/Kurama77190/Badge/main/42_badges/libftm.png" title="libft: 125/100" />
+</a>
 
 ###
 
