@@ -1,6 +1,7 @@
 <br clear="both">
 
 <h1 align="center">| STUDENT 42 PARIS | </h1>
+<h3 align="center"> Your dream is the future of tomorrow, don't forget. </h3>
 
 ###
 
