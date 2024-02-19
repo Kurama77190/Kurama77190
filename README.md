@@ -3,21 +3,9 @@
 <h1 align="center">| STUDENT 42 PARIS | </h1>
 <h3 align="center"> Your dream is the future of tomorrow, don't forget. </h3>
 
-
-```diff
-                                       ___                    _ _          ____  ____ _
-                                      / _ \                  | | |        | |  \/  (_) |
-                                     / /_\ \_ __  _ __  _   _| | | ___  __| | .  . |_| |_ ___
-                                     |  _  | ._ \| ._ \| | | | | |/ _ \/ _` | |\/| | | __/ _ \
-                                     | | | | | | | | | | |_| | | |  __/ (_| | |  | | | ||  __/
-                                     \_| |_/_| |_|_| |_|\__,_|_|_|\___|\__,_\_|  |_/_|\__\___|
-                                                                                     ©Sben-tay
-```
-
-
-
-
-
+<div align="center">
+  <img height="106" src="https://raw.githubusercontent.com/Kurama77190/Kurama77190/main/annulledMite.PNG"  />
+</div>
 
 
 ###
