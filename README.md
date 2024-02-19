@@ -3,9 +3,6 @@
 <h1 align="center">| STUDENT 42 PARIS | </h1>
 <h3 align="center"> Your dream is the future of tomorrow, don't forget. </h3>
 
-<div align="center">
-  <img height="106" src="https://raw.githubusercontent.com/Kurama77190/Kurama77190/main/annulledMite.PNG"  />
-</div>
 
 
 ###
