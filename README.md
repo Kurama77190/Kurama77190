@@ -10,7 +10,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://raw.githubusercontent.com/Kurama77190/Kurama77190/refs/heads/main/Reverse-Eng.png"  />
+  <img height="600" src="https://raw.githubusercontent.com/Kurama77190/Kurama77190/refs/heads/main/Reverse-Eng.png"  />
 </div>
 
 ## 👨‍💻 About Me
